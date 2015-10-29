@@ -1,0 +1,17 @@
+{
+    "name": "angres/controller",
+    "description": "Angres REST controller",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {"Angres\\Controller\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Djane Rey Mabelin",
+            "email": "d.mabelin@arcanys.com"
+        }
+    ]
+}
