@@ -1,5 +1,5 @@
 {
-    "name": "angres/controller",
+    "name": "djaney/angres-controller",
     "description": "Angres REST controller",
     "require": {},
     "require-dev": {
