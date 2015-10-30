@@ -1,6 +1,6 @@
 <?php
 
-namespace Angres\Controller;
+namespace Angres\Bundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
