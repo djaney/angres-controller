@@ -2,7 +2,8 @@
     "name": "djaney/angres-controller",
     "description": "Angres REST controller",
     "require": {
-        "friendsofsymfony/rest-bundle": "~1.7"
+        "friendsofsymfony/rest-bundle": "~1.7",
+        "djaney/doctrine-facade": "dev-develop"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0"
