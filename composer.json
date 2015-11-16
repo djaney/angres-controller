@@ -3,7 +3,8 @@
     "description": "Angres REST controller",
     "require": {
         "friendsofsymfony/rest-bundle": "~1.7",
-        "djaney/doctrine-facade": "dev-develop"
+        "jms/serializer-bundle": "~1.1",
+        "djaney/doctrine-facade": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0"
